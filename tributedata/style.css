@@ -1,0 +1,42 @@
+body {
+    background-color: beige;
+margin: 20%;
+
+}
+	
+#title {
+    margin-top: -250px;
+text-align: center;
+font-size: 7vh;
+}
+
+img {
+    margin-top: -30px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+height: 50%;
+}
+
+		
+#caption {
+font-size: 17px;
+font-family: Gill Sans;
+color: black;
+}
+
+div#tribute-data {
+background-color: rgb(46, 139, 87, 0.25);
+font-family: Georgia;
+padding: 25px 25px;
+margin: 11px;
+margin-top: 50px;
+		}
+
+h1.title-moin {
+font-size: 35px;
+color: black;
+text-align: center;
+}
+
